@@ -4,7 +4,7 @@
 <img src="./assets/images/calculator.png" alt="chatbot" />
 
 # Live Demo
-#### [View the live demo](https://chatbot-said.vercel.app)
+#### [View the live demo](https://calculator-said.vercel.app)
 
 # Table of Contents
 ### Features
