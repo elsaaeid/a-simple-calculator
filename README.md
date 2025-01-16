@@ -1,7 +1,7 @@
 # Overview
 #### This project is a simple calculator built using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be responsive and works seamlessly across different devices.
 
-<img src="./assets/images/calculator.png" alt="chatbot" />
+<img src="./assets/images/calculator.png" alt="calculator" />
 
 # Live Demo
 #### [View the live demo](https://calculator-said.vercel.app)
